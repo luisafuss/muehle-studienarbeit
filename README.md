@@ -23,7 +23,7 @@ Drei Steine einer Farbe, die in einer Geraden auf Feldern nebeneinander liegen, 
 
 ## WMD-Notation
 
-![wmd-notation](wmd-notation.jpg)
+![wmd-notation](wmd-notation.JPG)
 
 *Quelle: Dr. Rainer Rosenberger, http://muehlespieler.de/download/muehle_lehrbuch.pdf*
 
