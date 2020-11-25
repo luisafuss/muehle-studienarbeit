@@ -10,5 +10,3 @@ jobs:
 
     steps:
       - uses: ResearchSoftwareActions/EnsureCleanNotebooksAction@1.1
-        with:
-          disable-checks: outputs,execution_count
