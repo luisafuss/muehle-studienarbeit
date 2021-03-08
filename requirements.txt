@@ -1,5 +1,4 @@
 ipycanvas
-ipywidgets==7.5.1
 copy
 voila
 ipykernel
