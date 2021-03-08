@@ -1,0 +1,5 @@
+ipycanvas
+ipywidgets
+copy
+voila
+ipykernel
