@@ -25,7 +25,7 @@ Als nächstes kann Jupyter notebook mit folgendem Befehl gestartet werden:
 ```
 jupyter notebook
 ```
-Das Mühle-Spiel kann über das Notebook `Muehle_GUI.ipynb` gestartet werden.
+Das Mühle-Spiel kann über das Notebook `Muehle_Game.ipynb` gestartet werden.
 
 Um den Kernel herunterzufahren kann der Shortcut `Crtl + c` in der Anaconda Prompt genutzt werden.
 
