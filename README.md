@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luisafuss/muehle-studienarbeit/feature/75_Web-App?filepath=Muehle_Game.ipynb)
+
 # Studienarbeit - Entwicklung einer KI für das Brett-Spiel "Mühle"
 
 Das Spiel Mühle ist ein bekanntes Brettspiel, das sich aufgrund der vergleichsweise einfachen Regeln ohne allzu großen Aufwand implementieren lässt. Ziel der Arbeit ist die Entwicklung eines Jupyter-Notebooks, in dem das Mühle-Spiel implementiert wird. Das Spiel soll mit Hilfe der Sprache Python implementiert werden. Die grafische Oberfläche soll mit Hilfe von [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) und [ipycanvas](https://ipycanvas.readthedocs.io/en/latest/) gestaltet werden. 
