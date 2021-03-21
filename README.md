@@ -17,6 +17,8 @@ Um das Environment zu erstellen, muss im Projektordner über die Anaconda Prompt
 ```
 conda env create -f environment.yml
 ```
+
+Alternativ steht auch die Datei `requirements.txt` zur Verfügung.
 ### jedes Mal
 Die eingerichtete Umgebung kann mit Hilfe des folgenden Befehls aktiviert werden:
 ```
@@ -27,8 +29,19 @@ Als nächstes kann Jupyter notebook mit folgendem Befehl gestartet werden:
 ```
 jupyter notebook
 ```
+
+### Spielen
 Das Mühle-Spiel kann über das Notebook `Muehle_Game.ipynb` gestartet werden.
 
+### Lesen und Verstehen
+Zum Lesen und Verstehen der Anwendung ist folgende Reihenfolge zu empfehlen:
+1. `Muehle_Game.ipynb`
+2. `Muehle_Utilities.ipynb`
+3. `Muehle_Logik.ipynb`
+4. `Muehle_Heuristik.ipynb`
+5. `Muehle_Algo.ipynb`
+
+### Beenden
 Um den Kernel herunterzufahren kann der Shortcut `Crtl + c` in der Anaconda Prompt genutzt werden.
 
 Zum Verlassen des Environments dient der Befehl
