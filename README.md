@@ -35,7 +35,7 @@ Das Mühle-Spiel kann über das Notebook `Muehle_Game.ipynb` gestartet werden.
 
 ### Lesen und Verstehen
 Zum Lesen und Verstehen der Anwendung ist folgende Reihenfolge zu empfehlen:
-1. `Muehle_Game.ipynb`
+1. `Muehle_GUI.ipynb`
 2. `Muehle_Utilities.ipynb`
 3. `Muehle_Logik.ipynb`
 4. `Muehle_Heuristik.ipynb`
