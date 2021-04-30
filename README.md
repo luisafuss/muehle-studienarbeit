@@ -38,7 +38,7 @@ Zum Lesen und Verstehen der Anwendung ist folgende Reihenfolge zu empfehlen:
 1. `Muehle_GUI.ipynb`
 2. `Muehle_Utilities.ipynb`
 3. `Muehle_Logik.ipynb`
-4. `Muehle_Heuristik.ipynb`
+4. `Muehle_Heuristic.ipynb`
 5. `Muehle_Algo.ipynb`
 
 ### Beenden
