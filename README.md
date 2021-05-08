@@ -35,11 +35,13 @@ Das Mühle-Spiel kann über das Notebook `Muehle_Game.ipynb` gestartet werden.
 
 ### Lesen und Verstehen
 Zum Lesen und Verstehen der Anwendung ist folgende Reihenfolge zu empfehlen:
-1. `Muehle_GUI.ipynb`
-2. `Muehle_Utilities.ipynb`
-3. `Muehle_Logik.ipynb`
-4. `Muehle_Heuristic.ipynb`
-5. `Muehle_Algo.ipynb`
+1. `Muehle_Introduction.ipynb`
+2. `Muehle_GUI.ipynb`
+3. `Muehle_Utilities.ipynb`
+4. `Muehle_Logic.ipynb`
+5. `Muehle_Heuristic.ipynb`
+6. `Muehle_Algo.ipynb`
+7. `Muehle_Conclusion.ipynb` 
 
 ### Beenden
 Um den Kernel herunterzufahren kann der Shortcut `Crtl + c` in der Anaconda Prompt genutzt werden.
