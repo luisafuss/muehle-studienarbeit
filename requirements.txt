@@ -1,4 +1,3 @@
 ipycanvas
 ipywidgets
-voila
 ipykernel
