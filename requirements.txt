@@ -1,4 +1,4 @@
 ipycanvas
 ipywidgets
-voila
 ipykernel
+scipy # nur in der Einführung benötigt, nicht aber für das Mühlespiel
